@@ -4,14 +4,6 @@ A collection of agent skills for the [skills.sh](https://skills.sh) ecosystem.
 
 ## Installation
 
-Install all skills at once:
-
-```bash
-npx skills add yildizberkay/skills --all
-```
-
-Or install individually:
-
 ```bash
 # i18next - Internationalization with i18next in JS/TS projects
 npx skills add yildizberkay/skills --skill i18next
